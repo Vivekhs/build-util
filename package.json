@@ -1,0 +1,12 @@
+{
+  "name": "build-util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Vivek Sinha <viveksinha461@gmail.com>",
+  "license": "MIT",
+  "description": "This module will generate the build file name dynamically.",
+  "dependencies": {
+    "mkdirp": "0.5.1"
+  }
+}
