@@ -1,6 +1,6 @@
 {
-  "name": "build-util",
-  "version": "1.0.0",
+  "name": "build-utility",
+  "version": "1.0.1",
   "main": "index.js",
   "keywords": [],
   "author": "Vivek Sinha <viveksinha461@gmail.com>",
